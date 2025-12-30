@@ -1,0 +1,27 @@
+{
+  "name": "3dmanifoldraymarching",
+  "version": "1.0.0",
+  "description": "ray marching in 3D manifold embedded into 4D space",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumPix/3DManifoldRaymarching.git"
+  },
+  "keywords": [
+    "raymarching",
+    "manifold",
+    "4D"
+  ],
+  "author": "LecPixel",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/NumPix/3DManifoldRaymarching/issues"
+  },
+  "homepage": "https://github.com/NumPix/3DManifoldRaymarching#readme",
+  "dependencies": {
+    "gl-matrix": "^3.4.4"
+  }
+}
